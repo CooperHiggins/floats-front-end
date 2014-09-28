@@ -14,10 +14,14 @@
 .header {}
 
 .sidebar {
+	float:right;
+	width: 250px;
+	height: 300px;
 	/* hint! */
 }
 
 .main-content {
+	height:300px;
 	/* hint! */
 }
 

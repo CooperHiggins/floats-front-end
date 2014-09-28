@@ -10,16 +10,19 @@
 	margin: 0 auto;
 }
 
-.header {}
+.header {
+	border: orange;
+}
 
 .sidebar {
 	float: left;
 	width: 250px;
+	height: 300px;
 }
 
 .main-content {
-	float: left;
-	/* hint! */
+	
+	height:300px;
 }
 
 .footer {
